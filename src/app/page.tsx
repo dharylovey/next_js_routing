@@ -17,6 +17,12 @@ export default function Home() {
       <Link href="/blogs">
         <h2>Blogs</h2>
       </Link>
+      <Link href="/dashboard">
+        <h2>Dashboard</h2>
+      </Link>
+      <Link href="/order-product">
+        <h2>Order Product</h2>
+      </Link>
     </main>
   );
 }
